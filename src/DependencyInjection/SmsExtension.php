@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Amir\SmsTestBundle\DependencyInjection;
+namespace Amir\SmsBundle\DependencyInjection;
 
 use Symfony\Component\Config\FileLocator;
 use Symfony\Component\DependencyInjection\ContainerBuilder;

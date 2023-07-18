@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Amir\SmsTestBundle;
+namespace Amir\SmsBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 

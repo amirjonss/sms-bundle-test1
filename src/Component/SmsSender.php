@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Amir\SmsTestBundle\Component;
+namespace Amir\SmsBundle\Component;
 
-use Amir\SmsTestBundle\Component\core\ParameterGetter;
+use Amir\SmsBundle\Component\core\ParameterGetter;
 use Symfony\Component\HttpClient\HttpClient;
 
 class SmsSender

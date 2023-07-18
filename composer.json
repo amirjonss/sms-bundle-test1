@@ -28,12 +28,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Amir\\SmsTestBundle\\": "src/"
+            "Amir\\SmsBundle\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Amir\\SmsTestBundle\\Tests\\": "tests/"
+            "Amir\\SmsBundle\\Tests\\": "tests/"
         }
     },
     "scripts": {
