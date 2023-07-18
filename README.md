@@ -11,7 +11,7 @@ composer req amirjon/sms-bunle
 ### Add to config/bundles.php
 
 ```php
-Amir\SmsBundle\SmsTestBundle::class => ['all' => true],
+Amir\SmsBundle\SmsBundle::class => ['all' => true],
 ```
 
 ### Add next lines to your .env file
