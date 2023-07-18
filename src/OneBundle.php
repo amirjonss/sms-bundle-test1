@@ -2,11 +2,11 @@
 
 declare(strict_types=1);
 
-namespace Amir\SmsOneBundle;
+namespace Amir\OneBundle;
 
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
-class SmsOneBundle extends Bundle
+class OneBundle extends Bundle
 {
 
 }
