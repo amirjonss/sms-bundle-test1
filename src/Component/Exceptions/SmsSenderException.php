@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Eskiz\SmsBundle\Component\Exceptions;
+namespace Amir\SmsBundle\Component\Exceptions;
 
 use Exception;
 
