@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Amir\SmsBundle\Component\core;
+namespace Amir\SmsOneBundle\Component\core;
 
 use Psr\Container\ContainerExceptionInterface;
 use Psr\Container\NotFoundExceptionInterface;
